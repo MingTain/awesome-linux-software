@@ -13,7 +13,7 @@
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
 |kedit|KDE默认的图形界面编辑器|[kedit-install](https://github.com/asin929/linux-software/blob/master/Text-Processing/kedit/kedit-install.md)|★★★★☆|[kedit详情](https://github.com/asin929/linux-software/blob/master/Text-Processing/kedit/kedit.md)|TODO|
-|kedit|KDE默认的图形界面编辑器|[gedit-install](https://github.com/asin929/linux-software/blob/master/Text-Processing/gedit/gedit-install.md)|★★★★☆|[gedit详情](https://github.com/asin929/linux-software/blob/master/Text-Processing/gedit/gedit.md)|TODO|
+|gedit|GNOME默认的图形界面编辑器|[gedit-install](https://github.com/asin929/linux-software/blob/master/Text-Processing/gedit/gedit-install.md)|★★★★☆|[gedit详情](https://github.com/asin929/linux-software/blob/master/Text-Processing/gedit/gedit.md)|TODO|
 
 
 ---
