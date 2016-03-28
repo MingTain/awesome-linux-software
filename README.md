@@ -66,8 +66,8 @@
 + [文件差异比较工具](https://github.com/asin929/linux-software/blob/master/File-Processing/File-Processing.md#%E6%96%87%E4%BB%B6%E5%B7%AE%E5%BC%82%E6%AF%94%E8%BE%83%E5%B7%A5%E5%85%B7)
 
 
-### 7. [操作系统](https://github.com/asin929/linux-software/blob/master/Operating-System/System-Beautification.md)
-+ [桌面环境](https://github.com/asin929/linux-software/blob/master/Operating-System/System-Beautification.md#%E6%A1%8C%E9%9D%A2%E7%BE%8E%E5%8C%96)
+### 7. [操作系统](https://github.com/asin929/linux-software/blob/master/Operating-System/Operating-System.md)
++ [桌面环境](https://github.com/asin929/linux-software/blob/master/Operating-System/Operating-System.md#%E6%A1%8C%E9%9D%A2%E7%BE%8E%E5%8C%96)
 
 ### 8. [图像影音](https://github.com/asin929/linux-software/blob/master/Video-Image/Video_Image.md)
 + [图像浏览](https://github.com/asin929/linux-software/blob/master/Video-Image/Video_Image.md#%E5%9B%BE%E5%83%8F%E6%B5%8F%E8%A7%88)
