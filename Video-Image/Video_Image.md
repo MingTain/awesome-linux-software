@@ -42,6 +42,7 @@
 |Blender|免费的一套三维绘图及渲染软件|略|★★★★☆| [Blender详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/Blender/Blender.md)|无|
 |Dia|开放源码的流程图软件|略|★★★★☆| [Dia详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/Dia/Dia.md)|无|
 |Graphviz|编写脚本并绘制图形的画图工具|略|★★★★☆| [Graphviz详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/Graphviz/Graphviz.md)|无|
+|Shutter|带编辑工具的截图软件|略|★★★★☆| [Shutter详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/Shutter/Shutter.md)|无|
 
 **其它：**
 
@@ -56,6 +57,8 @@ yEd
 3D作图： Blender
 
 画流程图： Dia+yEd，想用编程的方式画就Graphviz
+
+截图编辑： Shutter
 
 **Read more**
 
