@@ -37,11 +37,12 @@
 
 |软件|简介|安装配置|星级|详情|注释|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|GIMP|号称Linux下的PhotoShop|略|★★★★☆| [GIMP详情](https://github.com/asin929/linux-software/blob/master/Video-Image/GIMP/GIMP.md)|无|
-|Inkscape|开源的矢量图形编辑软件|略|★★★★☆| [Inkscape详情](https://github.com/asin929/linux-software/blob/master/Video-Image/Inkscape/Inkscape.md)|无|
-|Blender|免费的一套三维绘图及渲染软件|略|★★★★☆| [Blender详情](https://github.com/asin929/linux-software/blob/master/Video-Image/Blender/Blender.md)|无|
-|Dia|开放源码的流程图软件|略|★★★★☆| [Dia详情](https://github.com/asin929/linux-software/blob/master/Video-Image/Dia/Dia.md)|无|
-|Graphviz|编写脚本并绘制图形的画图工具|略|★★★★☆| [Graphviz详情](https://github.com/asin929/linux-software/blob/master/Video-Image/Graphviz/Graphviz.md)|无|
+|GIMP|号称Linux下的PhotoShop|略|★★★★☆| [GIMP详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/GIMP/GIMP.md)|无|
+|Inkscape|开源的矢量图形编辑软件|略|★★★★☆| [Inkscape详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/Inkscape/Inkscape.md)|无|
+|Blender|免费的一套三维绘图及渲染软件|略|★★★★☆| [Blender详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/Blender/Blender.md)|无|
+|Dia|开放源码的流程图软件|略|★★★★☆| [Dia详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/Dia/Dia.md)|无|
+|Graphviz|编写脚本并绘制图形的画图工具|略|★★★★☆| [Graphviz详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/Graphviz/Graphviz.md)|无|
+
 
 **其它：**
 
@@ -59,6 +60,7 @@ ImageMagick
 + 一般软件： Dia+yEd
 + 使用编程的方式画： Graphviz
 + 在线绘图：推荐[draw.io](https://www.draw.io/)，[ProcessOn](http://www.processon.com/diagrams#)，[jgraph](http://jgraph.github.io/mxgraph/javascript/examples/grapheditor/www/index.html)，[gliffy](https://www.gliffy.com/)
+
 
 
 **Read more**
