@@ -1,14 +1,16 @@
 
 # 目录
 
-
-- [桌面美化](#桌面美化)
 - [系统安装](#系统安装)
+- [桌面美化](#桌面美化)
+
 
 ##  系统安装
 
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
+|Fedora|一套新颖、多功能并且自由（开放源代码）的操作系统|[Fedora-install](https://github.com/asin929/linux-software/blob/maste/rOperating-System/Fedora/GNOME-install.md)|★★★★★ |[Fedora详情](https://github.com/asin929/linux-software/blob/master/Operating-System/Fedora/Fedora.md) |[Fedora配置问题汇总](https://github.com/asin929/linux-software/blob/master/Operating-System/Fedora/Fedora-Problem.md)|
+|Ubuntu|当前最为流行的Ubuntu 发行版|[Ubuntu-install](https://github.com/asin929/linux-software/blob/maste/rOperating-System/Ubuntu/Ubuntu-install.md)|★★★★★ |[Ubuntu详情](https://github.com/asin929/linux-software/blob/master/Operating-System/Ubuntu/Ubuntu.md) |[Ubuntu配置问题汇总](https://github.com/asin929/linux-software/blob/master/Operating-System/Ubuntu/Ubuntu-Problem.md)|
 
 ##  桌面美化
 
