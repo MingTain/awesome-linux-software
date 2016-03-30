@@ -17,9 +17,9 @@
 
 |工具|简介|安装配置|星级|详情|备注|
 |---|---|---|---|---|---|
-|Puppet|Linux、Unix、Windows平台的集中配置管理系统|略|★★★★☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Puppet/Puppet.md)|无|
-|Ansible|GNOME下的下拉式终端|略|★★★☆☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Ansible/Ansible.md)|无|
-|Foreman|集成的数据中心生命周期管理工具|略|★★★☆☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Foreman/Foreman.md)|无|
+|Puppet|Linux、Unix、Windows平台的集中配置管理系统|略|★★★★☆|[详情](Tools/Puppet/Puppet.md)|无|
+|Ansible|GNOME下的下拉式终端|略|★★★☆☆|[详情](Tools/Ansible/Ansible.md)|无|
+|Foreman|集成的数据中心生命周期管理工具|略|★★★☆☆|[详情](Tools/Foreman/Foreman.md)|无|
 
 
 ### 其它
@@ -311,11 +311,11 @@ virbr0                 0 0             0 0             0 0             0 0
 
 |工具|简介|安装配置|星级|详情|备注|
 |---|---|---|---|---|---|
-|Hexo|一款博客程序|略|★★★★☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Hexo/Hexo.md)|无|
-|CSDN博客|GNOME下的下拉式终端|略|★★★☆☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/CSDN/CSDN.md)|无|
-|Wordpress|免费的开源项目|略|★★★☆☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Wordpress/Wordpress.md)|无|
-|Jekyll|简单的免费的Blog生成工具|略|★★★★☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Jekyll/Jekyll.md)|无|
-|Octopress|基于Ruby的开源Blogging Framework|略|★★★★☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Octopress/Octopress.md)|无|
+|Hexo|一款博客程序|略|★★★★☆|[详情](Tools/Hexo/Hexo.md)|无|
+|CSDN博客|GNOME下的下拉式终端|略|★★★☆☆|[详情](Tools/CSDN/CSDN.md)|无|
+|Wordpress|免费的开源项目|略|★★★☆☆|[详情](Tools/Wordpress/Wordpress.md)|无|
+|Jekyll|简单的免费的Blog生成工具|略|★★★★☆|[详情](Tools/Jekyll/Jekyll.md)|无|
+|Octopress|基于Ruby的开源Blogging Framework|略|★★★★☆|[详情](Tools/Octopress/Octopress.md)|无|
 
 
 ###  选择
@@ -330,14 +330,14 @@ Wordpress, Jekyll, Octopress用的人都挺多，都挺不错的。我没用过�
 
 |工具|简介|安装配置|星级|详情|备注|
 |---|---|---|---|---|---|
-|Nagios|监视系统运行状态和网络信息的监视系统|略|★★★★☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Nagios/Nagios.md)|无|
-|OpenNMS|企业级基于Java/XML的分布式网络和系统监控管理平台|略|★★★☆☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/OpenNMS/OpenNMS.md)|无|
-|Zabbix|基于WEB界面的提供分布式系统监视以及网络监视功能的企业级的开源解决方案|略|★★★☆☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Zabbix/Zabbix.md)|无|
-|Wireshark|网络封包分析软件|略|★★★★☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Wireshark/Wireshark.md)|无|
-|Zenoss|开源企业级IT管理软件-是智能监控软件|略|★★★★☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Zenoss/Zenoss.md)|无|
-|htop|Linux下的交互式的进程浏览器|略|★★★★☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Htop/Htop.md)|无|
-|atop|用来查看Linux系统负载的交互式监控工具|略|★★★★☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Atop/Atop.md)|无|
-|top|经典的Linux下的监控命令|略|★★★★☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Top/Top.md)|无|
+|Nagios|监视系统运行状态和网络信息的监视系统|略|★★★★☆|[详情](Tools/Nagios/Nagios.md)|无|
+|OpenNMS|企业级基于Java/XML的分布式网络和系统监控管理平台|略|★★★☆☆|[详情](Tools/OpenNMS/OpenNMS.md)|无|
+|Zabbix|基于WEB界面的提供分布式系统监视以及网络监视功能的企业级的开源解决方案|略|★★★☆☆|[详情](Tools/Zabbix/Zabbix.md)|无|
+|Wireshark|网络封包分析软件|略|★★★★☆|[详情](Tools/Wireshark/Wireshark.md)|无|
+|Zenoss|开源企业级IT管理软件-是智能监控软件|略|★★★★☆|[详情](Tools/Zenoss/Zenoss.md)|无|
+|htop|Linux下的交互式的进程浏览器|略|★★★★☆|[详情](Tools/Htop/Htop.md)|无|
+|atop|用来查看Linux系统负载的交互式监控工具|略|★★★★☆|[详情](Tools/Atop/Atop.md)|无|
+|top|经典的Linux下的监控命令|略|★★★★☆|[详情](Tools/Top/Top.md)|无|
 
 ###  补充
 
@@ -364,11 +364,11 @@ ICINGA项目是 由Michael Luebben、HendrikB?cker和JoergLinge等人发起的�
 
 |工具|简介|安装配置|星级|详情|备注|
 |---|---|---|---|---|---|
-|Yakuake|KDE下的下拉式终端|略|★★★★☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Yakuake/Yakuake.md)|无|
-|Guake|GNOME下的下拉式终端|略|★★★☆☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Guake/Guake.md)|无|
-|Tilda|下拉式终端|略|★★★☆☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Tilda/Tilda.md)|无|
-|Terminator|非下拉式终端|略|★★★★☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Terminator/Terminator.md)|无|
-|Stjerm|终端软件|略|★★★★☆|[详情](https://github.com/qiudeyang/linux-software/blob/master/Tools/Stjerm/Stjerm.md)|无|
+|Yakuake|KDE下的下拉式终端|略|★★★★☆|[详情](Tools/Yakuake/Yakuake.md)|无|
+|Guake|GNOME下的下拉式终端|略|★★★☆☆|[详情](Tools/Guake/Guake.md)|无|
+|Tilda|下拉式终端|略|★★★☆☆|[详情](Tools/Tilda/Tilda.md)|无|
+|Terminator|非下拉式终端|略|★★★★☆|[详情](Tools/Terminator/Terminator.md)|无|
+|Stjerm|终端软件|略|★★★★☆|[详情](Tools/Stjerm/Stjerm.md)|无|
 
 
 ----

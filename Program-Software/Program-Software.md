@@ -10,9 +10,9 @@
 
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
-|Eclipse|著名的跨平台的自由集成开发环境|[Eclipse-install](https://github.com/asin929/linux-software/blob/master/Program-Software/Eclipse/Eclipse-install.md)|★★★★★ |[Eclipse详情](https://github.com/asin929/linux-software/blob/master/Program-Software/Eclipse/Eclipse.md) |TODO|
-|Netbeans|强大的编程IDE|[Netbeans-install](https://github.com/asin929/linux-software/blob/master/Program-Software/Netbeans/Netbeans-install.md)|★★★★★ |[Netbeans详情](https://github.com/asin929/linux-software/blob/master/Program-Software/Netbeans/Netbeans.md) |TODO|
-|Kdevelop|KDE下集成开发环境IDE|[Kdevelop-install](https://github.com/asin929/linux-software/blob/master/Program-Software/Kdevelop/Kdevelop-install.md)|★★★★★ |[Kdevelop详情](https://github.com/asin929/linux-software/blob/master/Program-Software/Kdevelop/Kdevelop.md) |TODO|
+|Eclipse|著名的跨平台的自由集成开发环境|[Eclipse-install](Eclipse/Eclipse-install.md)|★★★★★ |[Eclipse详情](Eclipse/Eclipse.md) |TODO|
+|Netbeans|强大的编程IDE|[Netbeans-install](Netbeans/Netbeans-install.md)|★★★★★ |[Netbeans详情](Netbeans/Netbeans.md) |TODO|
+|Kdevelop|KDE下集成开发环境IDE|[Kdevelop-install](Kdevelop/Kdevelop-install.md)|★★★★★ |[Kdevelop详情](Kdevelop/Kdevelop.md) |TODO|
 
 
 ---
@@ -21,8 +21,8 @@
 
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
-|Umbrello|免费，跨平台，可正向逆向工程|[Umbrello-install](https://github.com/asin929/linux-software/blob/master/Program-Software/Umbrello/Umbrello-install.md)|★★★★★ |[Umbrello详情](https://github.com/asin929/linux-software/blob/master/Program-Software/Umbrello/Umbrello.md) |TODO|
-|StarUML|界面极其美观，快速发展|[StarUML-install](https://github.com/asin929/linux-software/blob/master/Program-Software/StarUML/StarUML-install.md)|★★★★★ |[StarUML详情](https://github.com/asin929/linux-software/blob/master/Program-Software/StarUML/StarUML.md) |TODO|
+|Umbrello|免费，跨平台，可正向逆向工程|[Umbrello-install](Umbrello/Umbrello-install.md)|★★★★★ |[Umbrello详情](Umbrello/Umbrello.md) |TODO|
+|StarUML|界面极其美观，快速发展|[StarUML-install](StarUML/StarUML-install.md)|★★★★★ |[StarUML详情](StarUML/StarUML.md) |TODO|
 
 
 **参考**
@@ -40,9 +40,9 @@
 
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
-|phpLDAPadmin|LDAP的Web 管理工具|[Umbrello-install](https://github.com/asin929/linux-software/blob/master/Program-Software/phpLDAPadmin/phpLDAPadmin-install.md)|★★★★★ |[phpLDAPadmin详情](https://github.com/asin929/linux-software/blob/master/Program-Software/phpLDAPadmin/phpLDAPadmin.md) |TODO|
-|JXplorer|跨平台的LDAP管理工具|[JXplorer-install](https://github.com/asin929/linux-software/blob/master/Program-Software/JXplorer/JXplorer-install.md)|★★★★★ |[JXplorer详情](https://github.com/asin929/linux-software/blob/master/Program-Software/JXplorer/JXplorer.md) |TODO|
-|LDAP-Admin|很不错的LDAP管理工具|[LDAP-Admin-install](https://github.com/asin929/linux-software/blob/master/Program-Software/LDAP-Admin/LDAP-Admin-install.md)|★★★★★ |[LDAP-Admin详情](https://github.com/asin929/linux-software/blob/master/Program-Software/LDAP-Admin/LDAP-Admin.md) |TODO|
+|phpLDAPadmin|LDAP的Web 管理工具|[Umbrello-install](phpLDAPadmin/phpLDAPadmin-install.md)|★★★★★ |[phpLDAPadmin详情](phpLDAPadmin/phpLDAPadmin.md) |TODO|
+|JXplorer|跨平台的LDAP管理工具|[JXplorer-install](JXplorer/JXplorer-install.md)|★★★★★ |[JXplorer详情](JXplorer/JXplorer.md) |TODO|
+|LDAP-Admin|很不错的LDAP管理工具|[LDAP-Admin-install](LDAP-Admin/LDAP-Admin-install.md)|★★★★★ |[LDAP-Admin详情](LDAP-Admin/LDAP-Admin.md) |TODO|
 
 
 

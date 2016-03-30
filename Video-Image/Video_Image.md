@@ -15,13 +15,13 @@
 
 |软件|简介|安装配置|星级|详情|注释|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|DigiKam|Linux下最受欢迎的照片管理软件|略|★★★★☆| [DigiKam详情](https://github.com/asin929/linux-software/blob/master/Video-Image/DigiKam/DigiKam.md)|无|
-|Shotwell|一款GNOME桌面环境下的相片管理软件|略|★★★★☆| [Shotwell详情](https://github.com/asin929/linux-software/blob/master/Video-Image/Shotwell/Shotwell.md)|无|
-|F-spot|应用于GNOME的全功能的个人照片管理程序|略|★★★☆☆| [F-spot详情](https://github.com/asin929/linux-software/blob/master/Video-Image/F-spot/F-spot.md)|无|
-|GwenView|支持几乎所有图片格式|略|★★★☆☆| [GwenView详情](https://github.com/asin929/linux-software/blob/master/Video-Image/GwenView/GwenView.md)|无|
-|gThumb|GNOME桌面环境下的开源图像浏览器|略|★★★☆☆| [gThumb详情](https://github.com/asin929/linux-software/blob/master/Video-Image/gThumb/gThumb.md)|无|
-|Eye of GNOME(eog)|GNOME环境下较好的图片查看器|略|★★★☆☆| [eog详情](https://github.com/asin929/linux-software/blob/master/Video-Image/eog/eog.md)|无|
-|display|非常原始的命令行工具|略|★★☆☆☆| [display详情](https://github.com/asin929/linux-software/blob/master/Video-Image/display/display.md)|无|
+|DigiKam|Linux下最受欢迎的照片管理软件|略|★★★★☆| [DigiKam详情](Video-Image/DigiKam/DigiKam.md)|无|
+|Shotwell|一款GNOME桌面环境下的相片管理软件|略|★★★★☆| [Shotwell详情](Video-Image/Shotwell/Shotwell.md)|无|
+|F-spot|应用于GNOME的全功能的个人照片管理程序|略|★★★☆☆| [F-spot详情](Video-Image/F-spot/F-spot.md)|无|
+|GwenView|支持几乎所有图片格式|略|★★★☆☆| [GwenView详情](Video-Image/GwenView/GwenView.md)|无|
+|gThumb|GNOME桌面环境下的开源图像浏览器|略|★★★☆☆| [gThumb详情](Video-Image/gThumb/gThumb.md)|无|
+|Eye of GNOME(eog)|GNOME环境下较好的图片查看器|略|★★★☆☆| [eog详情](Video-Image/eog/eog.md)|无|
+|display|非常原始的命令行工具|略|★★☆☆☆| [display详情](Video-Image/display/display.md)|无|
 
 **选择：**
 
@@ -79,11 +79,11 @@ ImageMagick
 
 |软件|简介|安装配置|星级|详情|注释|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Audacious|基于linux系统的免费简洁播放器|略|★★★★☆| [Audacious详情](https://github.com/asin929/linux-software/blob/master/Video-Image/Audacious/Audacious.md)|无|
-|Rhythmbox|linux系统自带的免费播放器|略|★★★★☆| [Rhythmbox详情](https://github.com/asin929/linux-software/blob/master/Video-Image/Rhythmbox/Rhythmbox.md)|无|
-|Amarok|适用KDE用户的免费播放器|略|★★★★☆| [Amarok详情](https://github.com/asin929/linux-software/blob/master/Video-Image/Amarok/Amarok.md)|无|
-|XMMS|专门为X-Window设计的播放器|略|★★★☆☆| [XMMS详情](https://github.com/asin929/linux-software/blob/master/Video-Image/XMMS/XMMS.md)|无|
-|foobar2000|暂无Linux版本|略|★★★☆☆| [foobar2000详情](https://github.com/asin929/linux-software/blob/master/Video-Image/foobar2000/foobar2000.md)|无|
+|Audacious|基于linux系统的免费简洁播放器|略|★★★★☆| [Audacious详情](Video-Image/Audacious/Audacious.md)|无|
+|Rhythmbox|linux系统自带的免费播放器|略|★★★★☆| [Rhythmbox详情](Video-Image/Rhythmbox/Rhythmbox.md)|无|
+|Amarok|适用KDE用户的免费播放器|略|★★★★☆| [Amarok详情](Video-Image/Amarok/Amarok.md)|无|
+|XMMS|专门为X-Window设计的播放器|略|★★★☆☆| [XMMS详情](Video-Image/XMMS/XMMS.md)|无|
+|foobar2000|暂无Linux版本|略|★★★☆☆| [foobar2000详情](Video-Image/foobar2000/foobar2000.md)|无|
 
 **其它：**
 
@@ -107,8 +107,8 @@ Amarok比Audacious功能上要强大，Audacious比较简洁，还是看个人�
 
 |软件|简介|安装配置|星级|详情|注释|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Audacity|Linux下最受欢迎的音频编辑软件|略|★★★★☆| [Audacity详情](https://github.com/asin929/linux-software/blob/master/Video-Image/Audacity/Audacity.md)|无|
-|Ardour|专业人士的工作好助手|略|★★★★☆| [Ardour详情](https://github.com/asin929/linux-software/blob/master/Video-Image/Ardour/Ardour.md)|无|
+|Audacity|Linux下最受欢迎的音频编辑软件|略|★★★★☆| [Audacity详情](Video-Image/Audacity/Audacity.md)|无|
+|Ardour|专业人士的工作好助手|略|★★★★☆| [Ardour详情](Video-Image/Ardour/Ardour.md)|无|
 
 **其它：**
 
@@ -124,9 +124,9 @@ Audacity &gt; Ardour &gt; FFmpeg
 
 |软件|简介|安装配置|星级|详情|注释|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|VLC|VideoLAN计划的多媒体播放器|略|★★★★☆| [VLC详情](https://github.com/asin929/linux-software/blob/master/Video-Image/VLC/VLC.md)|无|
-|MPlayer|基于命令行界面的多媒体播放器|略|★★★★☆| [MPlayer详情](https://github.com/asin929/linux-software/blob/master/Video-Image/MPlayer/MPlayer.md)|无|
-|SMPlayer|MPlayer的一个图形化前端|略|★★★★☆| [SMPlayer详情](https://github.com/asin929/linux-software/blob/master/Video-Image/SMPlayer/SMPlayer.md)|无|
+|VLC|VideoLAN计划的多媒体播放器|略|★★★★☆| [VLC详情](Video-Image/VLC/VLC.md)|无|
+|MPlayer|基于命令行界面的多媒体播放器|略|★★★★☆| [MPlayer详情](Video-Image/MPlayer/MPlayer.md)|无|
+|SMPlayer|MPlayer的一个图形化前端|略|★★★★☆| [SMPlayer详情](Video-Image/SMPlayer/SMPlayer.md)|无|
 
 **选择：**
 
@@ -142,7 +142,7 @@ vlc ; MPlayer ; SMPlayer
 
 |软件|简介|安装配置|星级|详情|注释|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Kdenlive|Linux下最好的视频编辑软件|略|★★★★★| [Kdenlive详情](https://github.com/asin929/linux-software/blob/master/Video-Image/Kdenlive/Kdenlive.md)|无|
+|Kdenlive|Linux下最好的视频编辑软件|略|★★★★★| [Kdenlive详情](Video-Image/Kdenlive/Kdenlive.md)|无|
 
 **其它（按受欢迎程度顺序列出）：**
 
