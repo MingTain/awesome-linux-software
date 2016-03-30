@@ -13,7 +13,7 @@
 ## linux经典软件索引
 
 ### 1. [大数据专栏](Big-Data/Big-Data.md)
-+ [CDH](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
++ [CDH](Big-Data/Big-Data.md)
 + [Hadoop](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
 + [Spark](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
 + [Pig](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
