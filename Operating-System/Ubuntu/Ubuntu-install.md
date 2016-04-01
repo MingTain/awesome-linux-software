@@ -1,6 +1,6 @@
 
 
-一篇不错的安装教程--[ Linux之安装Ubuntu ](http://blog.csdn.net/bear_huangzhen/article/details/46509261)
+一篇不错的安装教程--[ Linux之安装Ubuntu ](http://blog.csdn.net/bear_huangzhen/article/details/46509261)。
 
 
 ----
