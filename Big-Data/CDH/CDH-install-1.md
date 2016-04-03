@@ -128,7 +128,7 @@
 
 ### 5.配置 Cloudera Manager Agent
 
-修改/opt/cm-5.3.8/etc/cloudera-scm-agent/config.ini中的server_host为主节点的主机名。
+修改/opt/cm-5.3.8/etc/cloudera-scm-agent/config.ini中的server_host为namenode的主机名，server_port不要改动，保持默认值7182即可。
 
 ### 6.同步Agent到其他节点
 
