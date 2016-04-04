@@ -10,7 +10,7 @@
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
 |Fedora|一套新颖、多功能并且自由（开放源代码）的操作系统|[Fedora-install](Fedora/GNOME-install.md)|★★★★★ |[Fedora详情](Fedora/Fedora.md) |[Fedora配置问题汇总](Fedora/Fedora-Problem.md)|
-|Ubuntu|当前最为流行的Ubuntu 发行版|[Ubuntu-install](Ubuntu/Ubuntu-install.md)|★★★★★ |[Ubuntu详情](Ubuntu/Ubuntu.md) |[Ubuntu配置问题汇总](Ubuntu/Ubuntu-Problem.md)|
+|Ubuntu|当前最为流行的Ubuntu 发行版|[Ubuntu安装配置](Ubuntu/Ubuntu-install.md)|★★★★★ |[Ubuntu详情](Ubuntu/Ubuntu.md) |[Ubuntu配置问题汇总](Ubuntu/Ubuntu-Problem.md)|
 
 ##  桌面美化
 
