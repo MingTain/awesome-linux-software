@@ -6,7 +6,8 @@
 + [Linux之安装Ubuntu - bear_huangzhen的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/bear_huangzhen/article/details/46509261)
 
 
-### 安装ubuntu后修改root密码
+### 修改root密码
+
 
 Ubuntu默认的密码是随机的，所以新安装系统后，请使用如下命令修改root密码。
 
