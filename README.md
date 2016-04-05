@@ -6,9 +6,7 @@
 |[RacingDawn](https://github.com/RacingDawn)|8,9|是|
 |[qiudeyang](https://github.com/qiudeyang)|10,13|是|
 
-## 特别鸣谢
 
-@[marlboroug](https://github.com/marlboroug),@[chifa01](https://github.com/chifa01)
 
 ## linux经典软件索引
 
@@ -117,3 +115,12 @@
 [4] [Ubuntu速配指南之软件参考](http://wiki.ubuntu.org.cn/Qref/Apps)
 
 [5] [我的Ubuntu软件和日常应用整理列表 ](http://yife.im/software-list-under-ubuntu/)
+
+
+## 特别鸣谢
+
+@[marlboroug](https://github.com/marlboroug),@[chifa01](https://github.com/chifa01)
+
+## TODO
+
+- [ ] 办公应用里添加流程图软件
