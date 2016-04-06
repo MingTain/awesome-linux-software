@@ -3,7 +3,7 @@
 
 ### 无法输入中文
 
-参见[wps for linux 不能使用中文输入法](http://blog.csdn.net/sanshuei/article/details/47813473)
+参见[wps for linux 不能使用中文输入法](http://blog.csdn.net/sanshuei/article/details/47813473)。
 
 ### 关于自动备份
 
