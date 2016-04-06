@@ -20,15 +20,15 @@
 
 Guest Additions的主要作用是为了共享剪贴板，共享文件夹，无缝窗口，3D虚拟化显示等，在所安装的虚拟机（客户端）进行。**注意：即使在设置里选择了使用双向剪贴板，往往仍然不能在主机和虚拟机里实现剪贴板的共享，此时必须得装Guest Additions。**
 
-+ Guest Additions的安装（客户端进行）
++ **Guest Additions的安装（客户端进行）：**
 从[virtualbox/4.3.32](http://download.virtualbox.org/virtualbox/4.3.32/)处下载VBoxGuestAdditions_4.3.32.iso，并加载到虚拟机里。之后运行虚拟机，点击“Devices”->“Insert Guest Additions CD Image”，安装Guest Additions包，安装完成后会自动进入虚拟光盘的文件夹，该文件夹提供多种操作系统对应的运行命令。由于我安装的虚拟机为linux，故执行如下命令
 
         cd /media/asin/VBOXADDITIONS_4.3.32_103443/
         sudo sh ./VBoxLinuxAdditions.run
 若找不到目录`/media/asin/VBOXADDITIONS_4.3.32_103443`，则需在文件夹界面点击一下该文件，使其挂载进来。之后，重启虚拟机，即可共享剪贴板。
-另外，参见[virtualbox中ubuntu和windows共享文件夹设置](http://www.cnblogs.com/linjiqin/p/3615477.html)实现文件夹共享。不过，将共享文件夹设置为开机自动挂载时会有些问题，这篇博文－－[virtualbox文件夹共享，ubuntu无法自动挂载解决方法](http://blog.sina.com.cn/s/blog_71643ce10101hh2e.html)则提到了几种解决方法。
+参考[virtualbox中ubuntu和windows共享文件夹设置](http://www.cnblogs.com/linjiqin/p/3615477.html)和[virtualbox文件夹共享，ubuntu无法自动挂载解决方法](http://blog.sina.com.cn/s/blog_71643ce10101hh2e.html)实现文件夹共享，值得注意是选择共享文件时不要勾选“自动挂载”。另外，实现开机自动挂载的方法主要有两种：一种是修改/etc/fstab文件，不过我按此方法设置，重新开启虚拟机时进不去了。另外一种方式是将挂载命令写到/etc/rc.local文件，该方法能正常执行。
 
-+ Extension Pack包的安装（主机进行）
++ **Extension Pack包的安装（主机进行）：**
 去官网[virtualbox/4.3.32](http://download.virtualbox.org/virtualbox/4.3.32/)下载"Oracle_VM_VirtualBox_Extension_Pack-4.3.32.vbox-extpack"后，右击使用VirtualBox打开即可完成安装。
 
 ---
