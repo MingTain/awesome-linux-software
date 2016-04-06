@@ -107,7 +107,7 @@
 ## 虚拟机
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
-|VirtualBox|功能强大的虚拟机软件|[VirtualBox-install](VirtualBox/VirtualBox-install.md)|★★★★★|[VirtualBox详情](VirtualBox/VirtualBox.md)|TODO|
+|VirtualBox|功能强大的虚拟机软件|[安装VirtualBox及Deepin+Mac虚拟机](VirtualBox/VirtualBox-install.md)|★★★★★|[VirtualBox详情](VirtualBox/VirtualBox.md)|TODO|
 |VMware|简单实用的虚拟机软件|[VMware-install](VMware/VMware-install.md)|★★★★☆|[VMware详情](VMware/VMware.md)|TODO|
 |KVM|性能优异的虚拟机软件|[KVM-install](KVM/KVM-install.md)|★★★★☆|[KVM详情](KVM/KVM.md)|TODO|
 |Xen|性能优异的虚拟机软件|[Xen-install](Xen/Xen-install.md)|★★★☆☆|[Xen详情](Xen/Xen.md)|TODO|
