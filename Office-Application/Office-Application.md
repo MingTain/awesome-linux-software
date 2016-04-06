@@ -18,7 +18,7 @@
 
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
-|WPS|Windows Office的完美替代品|[WPS-install](WPS/WPS-install.md)|★★★★★| [WPS详情](WPS/WPS.md) |[wps for linux 不能使用中文输入法 ](http://blog.csdn.net/sanshuei/article/details/47813473)|
+|WPS|Windows Office的完美替代品|[WPS-install](WPS/WPS-install.md)|★★★★★| [WPS详情](WPS/WPS.md) |[WPS问题汇总](WPS/WPS-Problem.md)|
 |LibreOffice|非常好的办公套件|[LibreOffice-install](LibreOffice/LibreOffice-install.md)|★★★★☆| [LibreOffice详情](LibreOffice/LibreOffice.md) |TODO|
 |OpenOffice|跨平台的办公室软件套件|[OpenOffice-install](OpenOffice/OpenOffice-install.md)|★★★★☆| [OpenOffice详情](OpenOffice/OpenOffice.md) |TODO|
 |Google-Docs|谷歌办公套件|[Google-Docs-install](Google-Docs/Google-Docs-install.md)|★★★★☆| [Google-Docs详情](Google-Docs/Google-Docs.md) |TODO|
