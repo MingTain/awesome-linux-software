@@ -65,7 +65,7 @@
 
 
 ### 7. [操作系统](Operating-System/Operating-System.md)
-+ [系统安装](Operating-System.md#%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85)
++ [系统安装](Operating-System/Operating-System.md#%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85)
 + [桌面环境](Operating-System/Operating-System.md#%E6%A1%8C%E9%9D%A2%E7%BE%8E%E5%8C%96)
 
 ### 8. [图像影音](Video-Image/Video_Image.md)
