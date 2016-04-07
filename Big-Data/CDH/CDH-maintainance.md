@@ -14,7 +14,9 @@
 ### 2. 重装HDFS出错
 
 **错误描述：** 正在检查 NameNode 的名称目录是否为空。仅在为空时格式化 HDFS。
+
 **错误原因：** 旧的hdfs文件会对新安装HDFS产生干扰。
+
 **解决办法：**在namenode和所有datanode上执行`rm -r /dfs`。
 
 ---
