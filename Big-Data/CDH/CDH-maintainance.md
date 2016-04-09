@@ -48,12 +48,12 @@ java.lang.Exception: DB schema exists
 
 **错误1：**连接数据库出错
 **解决办法：**见[ 离线安装Cloudera Manager 5和CDH5(5.3.8) --初始化CM5的数据库](http://blog.csdn.net/u012948976/article/details/49702845)。
-	
+
 
 **错误2：**
 
 	Creating Hive user directory
-	
+
 	Failed to execute command Create Hive User Directory on service Hive
 
 **解决办法：**重启HDFS和yarn后再安装即可。
@@ -70,12 +70,18 @@ java.lang.Exception: DB schema exists
 ---
 ### 7. 退出hadoop安全模式
 
-	hadoop dfsadmin -safemode leave 
+	hadoop dfsadmin -safemode leave
 
 ---
 ### 8. 查看hadoop进程
 1. 切换到hdfs用户
 2. 执行` /usr/java/jdk1.8.0_60/bin/jps`．实际上输入`jps`即可，但前提是要把JAVA_HOME配置正确．
+
+
+---
+### 9. 应对主机ip变化
+
+[修改Cloudera Manager 管理机器的IP - chenfool - 博客园](http://www.cnblogs.com/chenfool/p/3756066.html)
 
 
 ----
