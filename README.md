@@ -116,6 +116,7 @@
 
 [5] [我的Ubuntu软件和日常应用整理列表 ](http://yife.im/software-list-under-ubuntu/)
 
+[6] [用CentOS 7打造合适的科研环境 ](http://seisman.info/linux-environment-for-seismology-research.html)
 
 ## 特别鸣谢
 
