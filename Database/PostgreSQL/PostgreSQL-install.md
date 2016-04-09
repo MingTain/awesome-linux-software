@@ -7,6 +7,9 @@
 
 + [ Fedora下PostgresQL安装和设置 ](http://blog.csdn.net/saloon_yuan/article/details/7904496)
 
++ [Ubuntu12.04 安装 PostgreSQL 和 PgAdmin3 - 杜永文 博客](http://duyw.github.io/blog/2013/04/04/ubuntu12-dot-04-an-zhuang-postgresqlhe-pgadmin3/)
+
+
 ### 其余参考
 
 + [Postgres查询结果集的获取方法及其优缺点 - CodeWeblog.com](http://www.codeweblog.com/postgres%E6%9F%A5%E8%AF%A2%E7%BB%93%E6%9E%9C%E9%9B%86%E7%9A%84%E8%8E%B7%E5%8F%96%E6%96%B9%E6%B3%95%E5%8F%8A%E5%85%B6%E4%BC%98%E7%BC%BA%E7%82%B9/)
@@ -18,7 +21,6 @@
 ## 使用
 ---
 + [PostgreSQL新手入门 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2013/12/getting_started_with_postgresql.html)
-+ [Hadoop中的数据库访问 - 飞鸿雪泥 - ITeye技术网站](http://jaguar13.iteye.com/blog/683392/)
 + [Linux下免费数据库PostgreSQL开发入门](http://www.ibm.com/developerworks/cn/linux/l-pgsql/)
 + [初识Postgresql和Sqoop - smile_zjw的个人页面 - 开源中国社区](http://my.oschina.net/zhangjiawen/blog/180637#OSC_h2_2)
 
