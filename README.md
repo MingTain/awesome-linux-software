@@ -118,6 +118,8 @@
 
 [6] [用CentOS 7打造合适的科研环境 ](http://seisman.info/linux-environment-for-seismology-research.html)
 
+[7] [“首选替代品”和“次选替代品”的差异](http://www.ouyada.com.cn/ot/index.php?s=/home/article/detail/id/5.html)
+
 ## 特别鸣谢
 
 @[marlboroug](https://github.com/marlboroug),@[chifa01](https://github.com/chifa01)
