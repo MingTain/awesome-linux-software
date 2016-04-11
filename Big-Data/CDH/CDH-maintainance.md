@@ -81,7 +81,7 @@ java.lang.Exception: DB schema exists
 ---
 ### 9. 应对主机ip变化
 
-[修改Cloudera Manager 管理机器的IP - chenfool - 博客园](http://www.cnblogs.com/chenfool/p/3756066.html)
+[修改Cloudera Manager 管理机器的IP - chenfool - 博客园](http://www.cnblogs.com/chenfool/p/3756066.html)。
 
 
 ----
