@@ -10,7 +10,7 @@
 
         /opt/cm-5.3.8/etc/init.d/cloudera-scm-agent start
 
-**注意**：可使用`/opt/cm-5.3.8/etc/init.d/cloudera-scm-server status`和`/opt/cm-5.3.8/etc/init.d/cloudera-scm-agent status`查看启动状态．若启动出错，可查看日志文件夹＂/opt/cm-5.1.8/log＂，里面包含server和agent的log．也可以通过/var/log/cloudera-scm-server/cloudera-scm-server.log，/var/log/cloudera-scm-agent/cloudera-scm-agent.log查看日志．
+**注意**：可使用`/opt/cm-5.3.8/etc/init.d/cloudera-scm-server status`和`/opt/cm-5.3.8/etc/init.d/cloudera-scm-agent status`查看启动状态．若启动出错，可查看日志文件夹＂/opt/cm-5.3.8/log＂，里面包含server和agent的log．也可以通过/var/log/cloudera-scm-server/cloudera-scm-server.log，/var/log/cloudera-scm-agent/cloudera-scm-agent.log查看日志．
 
 ### 3.登录 Cloudera Manager Admin Console
 
