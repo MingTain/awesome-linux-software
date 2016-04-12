@@ -3,7 +3,7 @@
 说明：本文介绍在已有集群的基础上，添加新主机的方法。之前集群的安装见[CDH安装上篇](CDH-install-1.md
 )和[CDH安装下篇](CDH-install-2.md)。
 
----
+
 ## 新主机配置
 
 **注意：新主机最好与之前主机的操作系统一致，否则会造成安装不成功。**
@@ -12,7 +12,7 @@
 + server memory:4G
 + server JDK version: jdk8
 
----
+
 ## 安装前准备
 
 [官网－－－Cloudera Manager 5 的要求和支持的版本](http://www.cloudera.com/content/cloudera/zh-CN/documentation/core/v5-3-x/topics/cm_ig_cm_requirements.html)．**注意**:以下操作全部使用root帐户．
