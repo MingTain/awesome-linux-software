@@ -38,7 +38,7 @@
         192.168.80.34 lyhadoop.com
         192.168.80.222 lyhadoop2.com
 
-建议将hosts文件里“127.0.0.1 localhost“去掉，避免与上述配置产生冲突。
+~~建议将hosts文件里“127.0.0.1 localhost“去掉，避免与上述配置产生冲突。~~
 
 #### 将主节点的hosts文件copy到各从节点
 
