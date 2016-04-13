@@ -77,7 +77,7 @@ java.lang.Exception: DB schema exists
 ---
 ### 9. 应对主机ip变化
 
-[修改Cloudera Manager 管理机器的IP - chenfool - 博客园](http://www.cnblogs.com/chenfool/p/3756066.html)。
+当主机的IP修改后，集群往往不能识别该主机，请参照[修改Cloudera Manager 管理机器的IP - chenfool - 博客园](http://www.cnblogs.com/chenfool/p/3756066.html)解决。
 
 
 ----
