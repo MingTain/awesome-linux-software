@@ -136,11 +136,11 @@
 
 ### 7.初始化CM5的数据库
 
-        /opt/cm-5.3.8/share/cmf/schema/scm_prepare_database.sh mysql cm -hlocalhost -uroot -p --scm-host localhost scm scm scm
+        /opt/cm-5.3.8/share/cmf/schema/scm_prepare_database.sh mysql cm -h localhost -uroot -p --scm-host localhost scm scm scm
 
-上述命令中的“-hlocalhost”表示安装该数据库的主机的 IP 地址或主机名，“--scm-host localhost”表示安装了 Cloudera Manager Server 的主机名。
+上述命令中的“-h localhost”表示安装该数据库的主机的 IP 地址或主机名，“--scm-host localhost”表示安装了 Cloudera Manager Server 的主机名。
 
-scm_prepare_database.sh命令的详情见[官网－－准备 Cloudera Manager Server 外部数据库](http://www.cloudera.com/content/cloudera/zh-CN/documentation/core/v5-3-x/topics/cm_ig_installing_configuring_dbs.html)．
+scm_prepare_database.sh命令的详情见[官网－－准备 Cloudera Manager Server 外部数据库](http://www.cloudera.com/documentation/enterprise/5-3-x/topics/cm_ig_installing_configuring_dbs.html)．
 
 ### 8.准备Parcels，用以安装CDH5
 
