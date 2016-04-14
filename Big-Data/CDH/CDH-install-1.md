@@ -90,7 +90,7 @@
 
 ### 6. 安装MySQL（主节点）
 
-按照[官网－－－MySQL 数据库](http://www.cloudera.com/documentation/enterprise/5-3-x/topics/cm_ig_installing_configuring_dbs.html?scroll=concept_i2r_m3m_hn_unique_2)一步步操作即可．
+按照[官网－－－MySQL 数据库](http://www.cloudera.com/documentation/enterprise/5-3-x/topics/cm_ig_mysql.html?scroll=cmig_topic_5_5)一步步操作即可．
 
 安装完MySQL后需要分别创建适用于 Activity Monitor、Reports Manager、Hive Metastore、Sentry Server、Cloudera Navigator Audit Server 和 Cloudera Navigator Metadata Server 的数据库。以Hive为例，
 
