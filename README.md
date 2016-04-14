@@ -120,6 +120,8 @@
 
 [7] [“首选替代品”和“次选替代品”的差异](http://www.ouyada.com.cn/ot/index.php?s=/home/article/detail/id/5.html)
 
+[8] [美丽新世界：linux 下的惬意生活](https://github.com/yangyangwithgnu/the_new_world_linux)
+
 ## 特别鸣谢
 
 @[marlboroug](https://github.com/marlboroug),@[chifa01](https://github.com/chifa01)
