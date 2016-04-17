@@ -1,5 +1,8 @@
 
 ---
+## 问题汇总
+
+---
 ### 1. 增加新主机不成功
 
 参照[在已有集群上添加新主机的办法](CDH-install-add-host.md)，在Cloudera Manager中添加新主机时，首先在新主机上启动agent，之后还未在Cloudera Manager界面执行添加新主机操作，却发现该主机已添上并与之前的主机产生混乱，手动添加该主机也不能成功。
@@ -79,6 +82,9 @@ java.lang.Exception: DB schema exists
 
 当主机的IP修改后，集群往往不能识别该主机，请参照[修改Cloudera Manager 管理机器的IP - chenfool - 博客园](http://www.cnblogs.com/chenfool/p/3756066.html)解决。
 
+---
+## 更多
+以上问题多是在CDH上安装组件（服务）出现的问题，可以参考组件单独安装的完整流程--[CDH 5 组件安装](http://www.cloudera.com/content/www/zh-CN/documentation/enterprise/5-3-x/topics/cdh_ig_cdh5_comp_install.html)来了解每个安装步骤的原理，从而找到问题的根本原因。
 
 ----
 [↑ 返回上级](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
