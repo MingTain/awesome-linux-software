@@ -74,6 +74,7 @@
 |Vuze|最强大的BT下载工具|[Vuze-install](Vuze/Vuze-install.md)|★★★★★|[Vuze详情](Vuze/Vuze.md)|TODO|
 |kTorrent|KDE下的一款BT下载工具|[kTorrent-install](kTorrent/kTorrent-install.md)|★★★★☆|[kTorrent详情](kTorrent/kTorrent.md)|TODO|
 |rtorrent|一个Linux下控制台的BT客户端程序|[rtorrent-install](rtorrent/rtorrent-install.md)|★★★★☆|[rtorrent详情](rtorrent/rtorrent.md)|TODO|
+|Deluge|比较好用的BT客户端程序|TODO |★★★★☆|[r
 
 ---
 ## 非BT下载工具
