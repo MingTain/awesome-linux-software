@@ -68,6 +68,7 @@ java.lang.Exception: DB schema exists
 
 ---
 ### 7. 退出hadoop安全模式
+参考[Hadoop 解除 "Name node is in safe mode" ](http://blog.csdn.net/hongweigg/article/details/7185328)，
 
 	hadoop dfsadmin -safemode leave
 
