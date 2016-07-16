@@ -84,6 +84,10 @@ java.lang.Exception: DB schema exists
 当主机的IP修改后，集群往往不能识别该主机，请参照[修改Cloudera Manager 管理机器的IP - chenfool - 博客园](http://www.cnblogs.com/chenfool/p/3756066.html)解决。
 
 ---
+### 10. 迁移Cloudera Manager
+参考[将 Cloudera Manager Server 移至新主机](http://www.cloudera.com/content/www/zh-CN/documentation/enterprise/5-3-x/topics/cm_ag_restore_server.html)和[迁移Cloudera Manager Server 至另一个节点](https://www.zybuluo.com/xtccc/note/186297)。
+
+---
 ## 更多
 以上问题多是在CDH上安装组件（服务）出现的问题，可以参考组件单独安装的完整流程--[CDH 5 组件安装](http://www.cloudera.com/content/www/zh-CN/documentation/enterprise/5-3-x/topics/cdh_ig_cdh5_comp_install.html)来了解每个安装步骤的原理，从而找到问题的根本原因。
 
