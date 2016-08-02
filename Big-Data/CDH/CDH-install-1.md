@@ -1,5 +1,14 @@
 
 
+
+# 离线安装离线安装Cloudera Manager 5和CDH5.3.8（上）
+
+
+## 说明
+---
+此为离线安装离线安装Cloudera Manager 5和CDH5.3.8，想要了解全部的安装方式，请参阅[CDH安装概览篇](CDH--install-overview.md)。
+
+
 ---
 ## 系统环境
 
