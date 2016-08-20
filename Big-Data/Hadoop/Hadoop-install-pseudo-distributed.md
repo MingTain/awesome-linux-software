@@ -1,7 +1,7 @@
 
 
 ## 伪分布式（pseudo-distributed）
-参考
+
 
 
 ### 官网教程
