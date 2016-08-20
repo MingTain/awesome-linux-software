@@ -87,6 +87,13 @@ java.lang.Exception: DB schema exists
 ### 10. 迁移Cloudera Manager
 参考[将 Cloudera Manager Server 移至新主机](http://www.cloudera.com/content/www/zh-CN/documentation/enterprise/5-3-x/topics/cm_ag_restore_server.html)和[迁移Cloudera Manager Server 至另一个节点](https://www.zybuluo.com/xtccc/note/186297)。
 
+---
+### 11. 集群卸载
+
++ [官方文档--卸载 Cloudera Manager 和托管软件](http://www.cloudera.com/content/www/zh-CN/documentation/enterprise/5-3-x/topics/cm_ig_uninstall_cm.html)
++ [CDH 5.x 完全卸载指南](http://www.jianshu.com/p/79d1411aaa42)
++ [干净卸载 Cloudera CDH 5 beta2](http://www.cnblogs.com/chenfool/p/3738540.html)
+
 
 ---
 ## 更多
