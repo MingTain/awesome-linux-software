@@ -114,26 +114,24 @@
 ## 正式安装（主节点）
 [官网－－－安装路径 C - 使用 Cloudera Manager 原始码手动安装](http://www.cloudera.com/content/cloudera/zh-CN/documentation/core/v5-3-x/topics/cm_ig_install_path_c.html)
 
-### 1.下载Cloudera Manager
+### 1.下载并解压Cloudera Manager
 [Cloudera Manager下载地址](http://archive-primary.cloudera.com/cm5/cm/5/)，按照自身系统下载相应版本即可．我们的系统是ubuntu trusty，故下载＂cloudera-manager-trusty-cm5.3.8_amd64.tar.gz＂．
-
-### 2.解压cloudera-manager
 
 将下载下来的＂cloudera-manager-trusty-cm5.3.8_amd64.tar.gz＂解压，将解压出来的cm-5.3.8放到＂/opt＂目录下．
 
-### 3.创建用户（所有节点）
+### 2.创建用户（所有节点）
 
          useradd --system --home=/opt/cm-5.3.8/run/cloudera-scm-server --no-create-home --shell=/bin/false --comment "Cloudera SCM User" cloudera-scm
 
-### 4.配置 Cloudera Manager Agent
+### 3.配置 Cloudera Manager Agent
 
 修改/opt/cm-5.3.8/etc/cloudera-scm-agent/config.ini中的server_host为namenode的主机名，server_port不要改动，保持默认值7182即可。
 
-### 5.同步Agent到其他节点
+### 4.同步Agent到其他节点
 
         scp -r /opt/cm-5.3.8 root@lyhadoop2.com:/opt/
 
-### 6.初始化CM5的数据库
+### 5.初始化CM5的数据库
 
         /opt/cm-5.3.8/share/cmf/schema/scm_prepare_database.sh mysql cm -h localhost -u root -p --scm-host localhost scm scm scm
 
@@ -141,7 +139,7 @@
 
 scm_prepare_database.sh命令的详情见[官网－－准备 Cloudera Manager Server 外部数据库](http://www.cloudera.com/documentation/enterprise/5-3-x/topics/cm_ig_installing_configuring_dbs.html)．
 
-### 7.准备Parcels，用以安装CDH5
+### 6.准备Parcels，用以安装CDH5
 
 
 [cdh5下载地址](http://archive.cloudera.com/cdh5/parcels/5.3/)，按照自身系统下载如下文件：
