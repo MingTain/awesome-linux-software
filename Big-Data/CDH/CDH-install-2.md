@@ -44,15 +44,9 @@
 ---
 ## 安装错误汇总
 
-### 1.error1
 
-**问题描述：**启动agent时失败，检查日志文件，发现如下
 
-    /opt/cloudera-manager/cm-5.3.8/lib64/cmf/agent/build/env/bin/python: error while loading shared libraries: libpython2.4.so.1.0: cannot open shared object file: No such file or directory
-
-**解决办法：**出现该问题是因为下错了cloudera-manager的版本，下载成了＂cloudera-manager-el5-cm5.3.8_x86_64.tar.gz＂，而这是Red Hat系统的．
-
-### 2.error2
+### 错误1--CM Agent启动失败
 
 **问题更新:**发现此问题在namenode上比较常见，而在datanode上很少出现。所以可以确定是因为在namenode上往往首先启动cloudera-scm-server，就紧接着启动cloudera-scm-agent，而cloudera-scm-server在启动期间需占用大量资源，导致cloudera-scm-agent启动失败。所以可以在cloudera-scm-server启动一段时间后（大概十分钟）再启动cloudera-scm-agent。
 
@@ -75,13 +69,7 @@
 **解决办法：**参考stackoverflow相关问题－－－[Stopping supervisord: Shut down](http://stackoverflow.com/questions/14479894/stopping-supervisord-shut-down)，执行`ps -ef | grep supervisord`，找到与angent相关的线程并kill掉即可，之后重启agent，并执行`/opt/cm-5.3.8/etc/init.d/cloudera-scm-agent status`查看启动状态。**注意：有时需要重上述操作两三次才可解决该问题。**
 
 
-### 3.error3
 
-**问题描述：**
-
-    Java is not installed on the hosts of this cluster.
-
-**解决办法：**之前的jdk在＂/usr/local＂目录下，将其移动到＂/usr/java＂下即可．
 
 ---
 ## 其它环境安装
