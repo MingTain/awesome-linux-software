@@ -91,9 +91,10 @@ java.lang.Exception: DB schema exists
 ### 11. 集群卸载
 
 + [官方文档--卸载 Cloudera Manager 和托管软件](http://www.cloudera.com/content/www/zh-CN/documentation/enterprise/5-3-x/topics/cm_ig_uninstall_cm.html)
-+ [CDH 5.x 完全卸载指南](http://www.jianshu.com/p/79d1411aaa42)
++ [CDH 5.x 完全卸载指南](http://www.jianshu.com/p/79d1411aaa42)：上述官方文档的中文翻译
 + [干净卸载 Cloudera CDH 5 beta2](http://www.cnblogs.com/chenfool/p/3738540.html)
 
+除按照上述链接进行卸载外，还要删除安装在`/opt`目录下的Cloudera Manager和CDH，以及删除之前创建的cm用户--cloudera-scm（` userdel  cloudera-scm`）.
 
 ---
 ## 更多
