@@ -115,7 +115,7 @@
 [官网－－－安装路径 C - 使用 Cloudera Manager 原始码手动安装](http://www.cloudera.com/content/cloudera/zh-CN/documentation/core/v5-3-x/topics/cm_ig_install_path_c.html)
 
 ### 1.下载并解压Cloudera Manager
-[Cloudera Manager下载地址](http://archive-primary.cloudera.com/cm5/cm/5/)，按照自身系统下载相应版本即可．我们的系统是ubuntu trusty，故下载＂cloudera-manager-trusty-cm5.3.8_amd64.tar.gz＂．
+[Cloudera Manager下载地址](http://archive-primary.cloudera.com/cm5/cm/5/)，按照自身系统下载相应版本即可．我们的系统是ubuntu trusty，故下载＂cloudera-manager-trusty-cm5.3.8_amd64.tar.gz＂。注意，不要下载其它系统版本的包，否则会启动出错。
 
 将下载下来的＂cloudera-manager-trusty-cm5.3.8_amd64.tar.gz＂解压，将解压出来的cm-5.3.8放到＂/opt＂目录下．
 
