@@ -1,5 +1,5 @@
 
-
+**更新：最新的CM5.8的安装见[Cloudera Manager5.8.0离线安装记](CDH--5.8安装记录.md)。**
 
 # 离线安装离线安装Cloudera Manager 5和CDH5.3.8（上）
 
