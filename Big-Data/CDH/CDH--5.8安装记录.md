@@ -1,8 +1,5 @@
 
 ---
-## 目录
-
-[TOC]
 
 
 ---
@@ -97,11 +94,15 @@ java.lang.IllegalArgumentException: Required executor memory (1024+384 MB) is ab
 ---
 ## 附录
 关于CM5.8.0中各服务的版本号，
+
 ![cdh-5.8-component-version-1](http://img.blog.csdn.net/20160822090915187)
+
 ![cdh-5.8-component-version-2](http://img.blog.csdn.net/20160822091008996)
 
 
 ---
 ## 参考
+
 [1][ cloudera-manager-el6-cm5.7.0版本启动Agent失败的问题解决 ](http://blog.csdn.net/jiangshouzhuang/article/details/52020518)
+
 [2][ Cloudera Manager 5和CDH5离线安装,CDH-5.7.1 ](http://blog.csdn.net/a921122/article/details/51939692)
