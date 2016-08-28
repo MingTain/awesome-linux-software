@@ -1,6 +1,6 @@
 
 
----
+
 ## 安装说明
 
 安装参考官方文档：[Cloudera Enterprise 5.8.x Documentation](http://www.cloudera.com/documentation/enterprise/latest.html)和[Installation Path C - Manual Installation Using Cloudera Manager Tarballs](http://www.cloudera.com/documentation/enterprise/latest/topics/cm_ig_install_path_c.html)进行即可。
