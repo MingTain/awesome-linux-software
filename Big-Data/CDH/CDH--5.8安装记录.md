@@ -5,7 +5,7 @@
 
 安装参考官方文档：[Cloudera Enterprise 5.8.x Documentation](http://www.cloudera.com/documentation/enterprise/latest.html)和[Installation Path C - Manual Installation Using Cloudera Manager Tarballs](http://www.cloudera.com/documentation/enterprise/latest/topics/cm_ig_install_path_c.html)进行即可。
 
-不过考虑到跟Cloudera Manager5.3.8安装几乎相同，所以可以完全参照[离线安装离线安装Cloudera Manager 5和CDH5.3.8（上）][CDH-install-1.md)和[离线安装离线安装Cloudera Manager 5和CDH5.3.8（下）](CDH-install-2.md)进行。
+不过考虑到跟Cloudera Manager5.3.8安装几乎相同，所以可以完全参照[离线安装离线安装Cloudera Manager 5和CDH5.3.8（上）](CDH-install-1.md)和[离线安装离线安装Cloudera Manager 5和CDH5.3.8（下）](CDH-install-2.md)进行。
 
 不过，Cloudera Manager5.8.0的安装终究还是与之前有些不同，记录如下。
 
