@@ -7,11 +7,10 @@
 
 
 ## 说明
----
+
 此为离线安装离线安装Cloudera Manager 5和CDH5.3.8，想要了解全部的安装方式，请参阅[CDH安装概览篇](CDH--install-overview.md)。本教程主要参考自官网文档--[Cloudera Enterprise 5.3.x 文档](http://zh-cn.cloudera.com/documentation/enterprise/5-3-x.html)。
 
 
----
 ## 系统环境
 
 + server OS: Ubuntu 14.04 Trusty 64bit
