@@ -1,3 +1,6 @@
+
+# 离线安装离线安装Cloudera Manager 5和CDH5.3.8（下）
+
 续上篇[离线安装Cloudera Manager 5和CDH5.3.8（上） ](https://github.com/asin929/linux-software/blob/master/Big-Data/CDH/CDH-install-1.md)。
 
 ---
