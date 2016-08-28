@@ -18,7 +18,7 @@
 + server JDK version: jdk8
 + mysql:
 
----
+
 ## 节点分配
 
 |node|ip| hostname|
@@ -27,7 +27,7 @@
 |datanode  |192.168.80.222  |  lyhadoop2.com|
 
 
----
+
 ## 安装前准备
 
 [官网－－－Cloudera Manager 5 的要求和支持的版本](http://www.cloudera.com/content/cloudera/zh-CN/documentation/core/v5-3-x/topics/cm_ig_cm_requirements.html)．**注意**:以下操作全部使用root帐户．
