@@ -19,11 +19,15 @@
 **注意:**根据提示，第一个输入法是不激活的，即任意放一个输入法即可。之后将需要的输入法添加进来即可。
 
 + Global Config
+
 ![fcitx global configuration](http://img.blog.csdn.net/20160205140334411)
+
 图中配置“Lshift”，"SHIFT Both"键为触发fcitx输入法框架，“CTRL_SHIFT”进行输入法切换。
 
 + Addon->Simplified Chinese To Traditional
+
 ![中英文切换](http://img.blog.csdn.net/20160205144349293)
+
 使用Ctrl+Shift+F进行简繁切换
 
 
