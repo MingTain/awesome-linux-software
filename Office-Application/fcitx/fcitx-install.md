@@ -1,5 +1,5 @@
 
----
+
 ## 安装及配置
 ### 安装
 参照【1】、【2】、【３】，安装Fcix及搜狗输入法，大概流程为:
@@ -41,7 +41,7 @@
 ![搜狗输入法](http://img.blog.csdn.net/20160205143255607)
 
 
----
+
 ## 问题汇总
 
 ---
@@ -60,7 +60,7 @@
 sudo yum install fcitx-qt5
 ```
 
----
+
 ## 参考博客
 【1】[Fedora 19安装Fcitx输入法并安装搜狗输入法资源包](http://www.hiadmin.org/linux/fedora19-fcitx)
 
@@ -71,6 +71,11 @@ sudo yum install fcitx-qt5
 【4】[Fcitx官方文档](https://wiki.archlinux.org/index.php/Fcitx_%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%29#fcitx-sogoupinyin_.E5.8D.A1.E6.AD.BB.E3.80.81.E8.81.94.E6.83.B3.E5.A4.B1.E8.B4.A5)
 
 【5】[Ubuntu下安装Texmaker的问题与解决方案]( http://blog.csdn.net/bendanban/article/details/23336155 )
+
+
+## 更多
+
+[Linux应用环境实战09：在Linux中使用搜狗拼音输入法以及搞定Flash和支付宝](http://www.cnblogs.com/youxia/p/linux009.html)介绍了在Ubuntu下安装搜狗输入法的方法。
 
 
 ----
