@@ -77,18 +77,27 @@ java.lang.Exception: DB schema exists
 1. 切换到hdfs用户
 2. 执行` /usr/java/jdk1.8.0_60/bin/jps`．实际上输入`jps`即可，但前提是要把JAVA_HOME配置正确．
 
+---
+### 9. spark-shell启动出错
+
+在命令行执行`spark-shell`之后，报错`NoClassDefFoundError com.apache.hadoop.fs.FSDataInputStream`，
+
+参照[NoClassDefFoundError com.apache.hadoop.fs.FSDataInputStream when execute spark-shell](http://stackoverflow.com/questions/30906412/noclassdeffounderror-com-apache-hadoop-fs-fsdatainputstream-when-execute-spark-s)和[Using Spark's "Hadoop Free" Build](http://spark.apache.org/docs/latest/hadoop-provided.html)解决。
+
+即找到spark-env.sh文件，在其末尾添加`export SPARK_DIST_CLASSPATH=$(hadoop classpath)`即可。注：在CDH中，该文件一般位于`/opt/cloudera/parcels/CDH/etc/spark/conf.dist`目录下。
+
 
 ---
-### 9. 应对主机ip变化
+### 10. 应对主机ip变化
 
 当主机的IP修改后，集群往往不能识别该主机，请参照[修改Cloudera Manager 管理机器的IP - chenfool - 博客园](http://www.cnblogs.com/chenfool/p/3756066.html)解决。
 
 ---
-### 10. 迁移Cloudera Manager
+### 11. 迁移Cloudera Manager
 参考[将 Cloudera Manager Server 移至新主机](http://www.cloudera.com/content/www/zh-CN/documentation/enterprise/5-3-x/topics/cm_ag_restore_server.html)和[迁移Cloudera Manager Server 至另一个节点](https://www.zybuluo.com/xtccc/note/186297)。
 
 ---
-### 11. 集群卸载
+### 12. 集群卸载
 
 + [官方文档--卸载 Cloudera Manager 和托管软件](http://www.cloudera.com/content/www/zh-CN/documentation/enterprise/5-3-x/topics/cm_ig_uninstall_cm.html)
 + [CDH 5.x 完全卸载指南](http://www.jianshu.com/p/79d1411aaa42)：上述官方文档的中文翻译
