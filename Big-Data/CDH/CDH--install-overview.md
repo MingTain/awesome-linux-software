@@ -8,6 +8,8 @@ CDH安装有好几种方式，新手容易困惑，故总结之。
 参见[官网--安装 Cloudera Manager、CDH 和受管服务](http://www.cloudera.com/content/www/zh-CN/documentation/enterprise/5-3-x/topics/cm_ig_intro_to_cm_install.html)，实际上总共有6个阶段，
 每个阶段都有不同的方式可以完成。见下图，
 
+![20160803112834801](https://cloud.githubusercontent.com/assets/10795273/19197529/ebcc5536-8cec-11e6-82ae-07b89a3058d3.jpg)
+
 
 根据上述说明，在安装`Cloudera Manager`阶段时，共有A、B、C三种方式可以完成，
 + 方式A是通过运行`cloudera-manager-installer.bin`文件的方式在线安装
