@@ -88,16 +88,22 @@ java.lang.Exception: DB schema exists
 
 
 ---
-### 10. 应对主机ip变化
+### 10. 修改HDFS的容量
+
+**解决办法：**修改HDFS的配置项--`dfs.datanode.du.reserved`，该参数表示磁盘保留的HDFS不能使用的空间大小。
+
+
+---
+### 11. 应对主机ip变化
 
 当主机的IP修改后，集群往往不能识别该主机，请参照[修改Cloudera Manager 管理机器的IP - chenfool - 博客园](http://www.cnblogs.com/chenfool/p/3756066.html)解决。
 
 ---
-### 11. 迁移Cloudera Manager
+### 12. 迁移Cloudera Manager
 参考[将 Cloudera Manager Server 移至新主机](http://www.cloudera.com/content/www/zh-CN/documentation/enterprise/5-3-x/topics/cm_ag_restore_server.html)和[迁移Cloudera Manager Server 至另一个节点](https://www.zybuluo.com/xtccc/note/186297)。
 
 ---
-### 12. 集群卸载
+### 13. 集群卸载
 
 + [官方文档--卸载 Cloudera Manager 和托管软件](http://www.cloudera.com/content/www/zh-CN/documentation/enterprise/5-3-x/topics/cm_ig_uninstall_cm.html)
 + [CDH 5.x 完全卸载指南](http://www.jianshu.com/p/79d1411aaa42)：上述官方文档的中文翻译
