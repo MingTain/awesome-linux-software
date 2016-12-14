@@ -92,6 +92,8 @@ java.lang.Exception: DB schema exists
 
 **解决办法：**修改HDFS的配置项--`dfs.datanode.du.reserved`，该参数表示磁盘保留的HDFS不能使用的空间大小。
 
+修改HDFS的配置项--`dfs.data.dir`，为其添加或减少HDFS的本地数据目录（也可以使用命令`hadoop-fuse-dfs`来完成此操作）。
+
 
 ---
 ### 11. 应对主机ip变化
