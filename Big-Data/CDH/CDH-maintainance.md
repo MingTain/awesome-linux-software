@@ -92,8 +92,7 @@ java.lang.Exception: DB schema exists
 
 **解决办法：**修改HDFS的配置项--`dfs.datanode.du.reserved`，该参数表示磁盘保留的HDFS不能使用的空间大小。
 
-修改HDFS的配置项--`dfs.data.dir`，为其添加或减少HDFS的本地数据目录（也可以使用命令`hadoop-fuse-dfs`来完成此操作）。
-
+修改HDFS的配置项--`dfs.data.dir`，为其添加或减少HDFS的本地数据目录（也可以使用命令`hadoop-fuse-dfs`来完成此操作）。**值得注意的是，点击“-”去掉旧的数据目录后，HDFS并不会自动将这些数据移动，导致重启之后出现块丢失，故建议先将其移动到其余目录，再将该目录添加进来，HDFS会自动识别这些数据的。**
 
 ---
 ### 11. 应对主机ip变化
